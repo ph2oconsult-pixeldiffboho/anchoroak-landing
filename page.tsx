@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   },
 };
 
-const CALENDLY_URL = "https://calendly.com/YOUR_LINK_HERE";
+const CALENDLY_URL = "https://calendly.com/ph2oconsult/30min";
 
 // ─── Sub-components ──────────────────────────────────────────────────────────
 
