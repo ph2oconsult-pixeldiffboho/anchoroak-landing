@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-
+ 
 export const metadata: Metadata = {
   title: "Church Pilot Programme · Anchor & Oak — The Father's Table",
   description:
